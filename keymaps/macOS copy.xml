@@ -1,0 +1,79 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt subtract" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta alt minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="meta alt q" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt add" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="GotoFile" />
+  <action id="GotoTest" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+  </action>
+  <action id="IntroduceField" />
+  <action id="Jdbc.RunSqlScript" />
+  <action id="MarkExcludeRoot">
+    <keyboard-shortcut first-keystroke="alt dead_acute" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
+  <action id="Runner.CloseAllViews">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="Runner.CloseOtherViews">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ServiceView.GroupByContributor" />
+  <action id="ServiceView.ShowServices" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="nl.deschepers.laraveltinker.action.SmartAction">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+</keymap>

@@ -1,0 +1,3 @@
+com.laravel_idea.plugin
+io.zhile.research.ide-eval-resetter
+nl.deschepers.laraveltinker
