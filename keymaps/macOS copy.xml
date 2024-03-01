@@ -1,4 +1,5 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -31,6 +32,7 @@
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoFile" />
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
@@ -38,6 +40,7 @@
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="IntroduceField" />
+  <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.RunSqlScript" />
   <action id="MarkExcludeRoot">
     <keyboard-shortcut first-keystroke="alt dead_acute" />
@@ -69,6 +72,7 @@
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
     <keyboard-shortcut first-keystroke="shift ctrl h" />
